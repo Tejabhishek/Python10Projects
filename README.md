@@ -5,3 +5,5 @@ For Beginners. Hope you find these useful.
 #PythonBeginnerIdeas
 
 #Moretocome
+
+App/Project0 : Name Generator
